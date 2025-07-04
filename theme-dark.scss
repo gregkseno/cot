@@ -1,7 +1,12 @@
 /*-- scss:defaults --*/
 
 /*-- scss:rules --*/
-.figcaption {
+figcaption {
     margin: auto;
     text-align: center;
+}
+
+.navbar  {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
