@@ -1,0 +1,16 @@
+---
+title: Teaching Team
+---
+
+::: {layout-ncol=2}
+
+![[**Grigoriy Ksenofonotv**](https://scholar.google.com/citations?user=e0mirzYAAAAJ)
+](images/team/grigoriy_k.jpg){width=70%}
+
+![[**Mikhail Persiianov**](https://scholar.google.com/citations?user=YXX3VMQAAAAJ)](images/team/mikhail_p.jpg){width=70%}
+
+:::
+
+
+
+
